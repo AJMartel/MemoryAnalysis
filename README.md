@@ -12,7 +12,7 @@ This project aims to solve these disadvantages by introducing Trigger-Based anal
 
 This project was built on top of Cuckoo Sandbox, however, the techniques are generic may be trivially applied to other analysis machines. 
 
-For more information: Read the White Paper and view the Slides.
+For more information: Read the White Paper and view the Slides (WP_AND_PRESENTATION directory)
 
 Black Hat Arsenal 2014: 
 https://www.blackhat.com/us-14/arsenal.html#Teller
