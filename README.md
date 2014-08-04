@@ -23,7 +23,6 @@ https://www.blackhat.com/us-14/arsenal.html#Teller
 <a name="user-content-authors" class="anchor" href="#dependencies" aria-hidden="true"><span class="octicon octicon-link"></span></a>Dependencies</h3>
 <ul class="task-list">
 <li>Cuckoo Sandbox dependencies.</li>
-<li>For static analysis, download IDA free 5.0 and replace its exe with our provided patch (in cuckoo/IDA/idag_patched.exe)</li>
 <li>In order to use the heap entropy calculator plugin, copy heap_entropy.py from Volatility directory (under master directory) to the Volatility plugins directory.</li>
 <li>In order to use the monitorCPU trigger, you will have to run CPU.exe on your analysis machine (and grab a snapshot)</li>
 <li>In order to support precise trigger-based analysis (suspending/resuming VM, grabbing memory dumps, etc.) we modified cuckoomon.dll. 
